@@ -27,6 +27,8 @@ nucleotides are different from their equivalent in the other string.
 GAGCCTACTAACGGGAT
 CATCGTAATGACGGCCT
 ^ ^ ^  ^ ^    ^^
+
+
 The Hamming distance between these two DNA strands is 7.
 
 Your function will return an integer
